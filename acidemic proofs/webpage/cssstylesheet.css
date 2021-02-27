@@ -1,0 +1,48 @@
+  body {
+    background-color: #fff;
+    background-image: url("http://dl9.glitter-graphics.net/pub/3603/3603719junc41c17w.png");
+    background-repeat: repeat;
+
+  }
+
+  #mainbox{
+    background-color: #fff;
+    height: auto;
+    width: 700px;
+    border-radius: 10px;
+    font-family: "Trebuchet MS";
+    color: #000;
+    text-align: left;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  
+  h1{
+    font-family: "Trebuchet MS";
+    color: #000;
+    letter-spacing: 5px;
+    font-size: 25 pt;
+    text-align: center;
+    text-transform: uppercase;
+
+  }
+
+  
+  h2{
+    font-family: "Trebuchet MS";
+    color: #fe0000;
+    letter-spacing: 2px;
+    font-size: 15 pt;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: -2px;
+  }
+
+h3 {
+	font-family: "Trebuchet MS";
+	color: #424242;
+	font-size: 20pt;
+	text-align: center;
+}
